@@ -67,6 +67,5 @@ for i in range(50):
                 [(SH*.0616)/6 * math.cos(math.radians(342)) + SX, (SH*.0616)/6 * math.sin(math.radians(342))+SY],
                 [SH*.0616/2 * math.cos(math.radians(18)) + SX, SH*.0616/2 * math.sin(math.radians(18)) + SY]
                 ], arcade.color.WHITE)
-
 arcade.finish_render()
 arcade.run()
