@@ -15,7 +15,7 @@ import math
 
 SH = 450
 SW = SH * 1.9
-arcade.open_window(int(SW), SH, "Flag")
+arcade.open_window(int(SW), SH, "Samuel Pattison Flag")
 arcade.set_background_color(arcade.color.WHITE)
 arcade.start_render()
 

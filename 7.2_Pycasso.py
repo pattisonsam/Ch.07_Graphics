@@ -18,7 +18,7 @@ import random
 
 import arcade
 import math
-arcade.open_window(600,600,"Pycasso")
+arcade.open_window(600,600,"Samuel Pattison Pycasso")
 arcade.set_background_color((0,0,0))
 arcade.start_render()
 
